@@ -1,5 +1,78 @@
 ---
 title: "Teaching"
+subtitle: "Designing the next generation of organizations — platforms, ecosystems, and AI-embedded firms."
 ---
 
-*Coming soon.* Courses on platforms, AI, and the design of the modern firm — undergraduate, MBA, and PhD.
+## Positioning
+
+I teach the economics and strategy of designing the next generation of organizations — platforms, ecosystems, and AI-embedded firms — built from first principles and grounded in frontier research. The through-line across my MBA, honors, undergraduate, and PhD courses is the same: take the most current research in economics, technology, management, and innovation, and turn it into frameworks you can actually use to design a business, not just describe one. Most courses in this space either teach AI without the underlying economics, or teach economics without the building. Mine does both, as one coherent argument.
+
+## What I teach — the argument
+
+My courses are built around a single argument in four stages:
+
+1. **Value creation.** Where does value come from in a digital, networked economy? We start with users and use cases, network effects, and the dimensions of value — and derive value curves that generalize Porter for platforms and ecosystems.
+2. **Value delivery.** How do you build the operating model? Features and functions, how to organize the sides of a platform (markets, contests, communities, networks), open vs. closed choices, ecosystem orchestration, launch and tipping.
+3. **Value capture.** How do you sustain advantage? Pricing, scale economies, portfolios of advantage, organization-specific assets, freemium. Network effects treated as *designed*, not inherent.
+4. **AI and the prediction factory.** How machine intelligence gets embedded in the operating model: task selection, data inventory, algorithm design, integration, and the move to generative AI, agents, and LLMs.
+
+Each module builds on the last. The frameworks are robust enough to outlast any particular technology cycle because they sit on how value is created, delivered, and captured — questions that do not change even as the tools do.
+
+## Courses
+
+**MBA Strategy (D'Amore-McKim, Northeastern).** Core strategy for MBAs. Traditional strategy tools (Five Forces, VRIO, positioning) extended and, where necessary, replaced for ecosystems, platforms, and AI-native firms.
+
+**Honors Platforms (HONR 3310).** Year-long honors course. Students move through the full four-module arc and deliver original research presentations in the spring.
+
+**INNO 3303 — Platform Business Models.** Undergraduate course. Same intellectual architecture, pitched at the undergraduate level. Students design platforms and build AI prototypes.
+
+**PhD seminar.** Research training in the economics of innovation, platforms, and digital organization. Paper-by-paper, emphasis on research design and method-to-question fit.
+
+**Executive and guest teaching.** Short, sharp sessions for executive programs, conferences, and corporate audiences. Same frameworks, compressed.
+
+## Signature topics and frameworks
+
+A selection of the most distinctive things I teach. Each is a unit of class time, not a buzzword.
+
+- **User × Use Case and the Dimensions of Value.** A design tool for locating where platform value actually sits — before you pick a business model.
+- **Value curves beyond Porter.** An extension of Porter's positioning logic for multi-sided and stack-based businesses where "the industry" is the wrong unit of analysis.
+- **Four models for organizing the sides of a platform.** Markets, contests, communities, networks — when to use each, and why the choice locks in everything that follows.
+- **Open vs. closed as a make-or-buy decision.** Platform boundary choice as an organizational-economics problem, not a religion.
+- **Tipping and winner-take-all — under what conditions.** The three conditions that must be met for WTA. Usually they aren't. Saying so out loud changes strategy.
+- **The prediction-factory pipeline.** Task selection → data inventory → algorithm design → integration. A repeatable sequence for building AI into the operating model rather than bolting it on.
+- **Strong AI, LLMs, and agents in the operating model.** What changes when prediction gets general, cheap, and agentic — and what doesn't.
+- **Platform Battle Royale.** A multi-round competitive simulation students run in class. Pricing, complementor management, network effects, and defection dynamics in real time.
+
+## What students do
+
+My courses are design-oriented, not descriptive. In a given term, students will:
+
+- Discuss 15+ real cases (Amazon, Uber, Wikipedia, Quantopian, eHarmony, Peloton, Upwork, Jibo, Ripple, Anthropic, Hugging Face, and more).
+- Design an original platform: blueprint, operating model, pricing, launch plan.
+- Build an AI prototype using current tools (Anthropic agents, LLMs) tied to the operating model they designed.
+- Run the Platform Battle Royale simulation against their classmates.
+- Read and evaluate academic papers — in the honors and PhD courses, present original research or research proposals.
+- Write short, argued memos (no filler) analyzing platform situations.
+
+## Research → teaching
+
+The frameworks I teach come directly out of research I'm doing now, not a textbook I wrote a decade ago. A few live examples:
+
+- **Platform boundaries, freemium, and profiting from digital innovation** (Boudreau, Miric, Jeppesen; published work) → Modules 1–3 on value creation, delivery, and capture on multi-sided platforms.
+- **Marginal complementors** (working paper) → the "unpaid complementors" and platform-governance sessions.
+- **Digitization, AI, and search-and-matching in modern labor markets** (Boudreau, Jungbauer, Williams) → the labor-market and AI-in-operations discussions in Module 4.
+- **Co-op timing and engineering careers** (Boudreau & Marx, in revision) → how human capital is formed under uncertainty; used in discussions of early-career design and talent architectures.
+- **Multidisciplinary research experiment** (Boudreau & Ganguli) → who selects into novel, cross-disciplinary work; used in the innovation and crowds sessions and in the PhD seminar.
+- **Motivations in open innovation** (Boudreau; Boudreau & Dudley meta-analysis) → the "contests, communities, and crowds" class sessions and the Quantopian case.
+- **NBER chapter on experiments in scientific evaluation** → the research-methods training in the honors and PhD courses.
+- **Industry analysis for ecosystems** (teaching note) → the replacement framework I use instead of a vanilla Five Forces lecture.
+
+The principle: every module on the syllabus has at least one live research project feeding it. Students are not learning "what we knew in 2015" — they are learning what I'm working out this year.
+
+## For different audiences
+
+**Prospective students at Northeastern.** If you're thinking about taking a course with me, skim the four-module arc above. Honors and undergraduate sections take the full year; the MBA version is a compressed strategy core.
+
+**Program directors and conference organizers.** I teach in executive programs and give keynotes on platform strategy, AI and the prediction factory, and experiments in innovation research. Reach out via email.
+
+**Prospective PhD students.** My PhD teaching and advising focus on the economics of innovation, platforms, and the science of science. I prefer students with a clear methodological orientation and a willingness to design their own instruments.
