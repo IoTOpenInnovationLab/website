@@ -1,5 +1,232 @@
 ---
 title: "Research"
+description: "Publications grouped by research program."
 ---
 
-*Coming soon.* 44 publications across platform strategy, science of science, and translation to practice — grouped by research program.
+44 papers across 4 research programs. Working papers and recently accepted work appear at the top of each section.
+
+## Platform Strategy, Entrepreneurship & Innovation
+
+**AI-Enabled Job Markets & Market Participation: A Field Experiment on How AI Shapes Jobseekers' Expectations of Competition**  
+K. Boudreau and S. Bana · *Working Paper*, 2025 · [Working paper]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5437196)
+
+**Inducing Innovation at the Edge: Adding Marginal Complementors to a Mature Platform**  
+K. Boudreau · *Working Paper*, 2025 · [Working paper]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5404803)
+
+**Artificial Intelligence as a Platform Technology: Strategic Implications of Competing on Top of an AI Platform**  
+K. Boudreau, L.B. Jeppesen, and M. Miric · *Handbook on AI and Strategy (eds. F. Csaszar and N. Jia)*, forthcoming 2025 · [Book chapter]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5349634)
+
+**Gender Differences in Response to Competitive Organization: Evidence from a Product Development Platform**  
+K. Boudreau and N. Kaushik · *Organization Science*, 2023
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4117089)
+
+**Free(mium) Strategies for Digital Goods**  
+K. Boudreau, L.B. Jeppesen, and M. Miric · *Research Handbook on Digital Strategy (Edward Elgar)*, 2023 · [Book chapter]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2023%20-%20Boudreau%20-%20Freemium%20Strategies%20for%20Digital%20Goods%20%28Book%20Chapter%29.pdf)
+
+**Competing on Freemium: Digital Competition with Network Effects**  
+K. Boudreau, L.B. Jeppesen, and M. Miric · *Strategic Management Journal*, 2022
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2022%20-%20Boudreau%20Miric%20Jeppesen%20-%20Competing%20on%20Freemium%20Digital%20Competition%20with%20Network%20Effects%20%28Strategic%20Management%20Journal%29.pdf)
+
+**Profiting from Digital Innovation: Patents, Copyright, and Performance**  
+K. Boudreau, L.B. Jeppesen, and M. Miric · *Research Policy*, 2022
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2022%20-%20Boudreau%20Miric%20Jeppesen%20-%20Profiting%20from%20Digital%20Innovation%20%28Research%20Policy%29.pdf)
+
+**Crowdfunding as Donations to Entrepreneurial Firms**  
+K. Boudreau, L.B. Jeppesen, T. Reichstein, and F. Rullani · *Research Policy*, 2021
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2021%20-%20Boudreau%20-%20Crowdfunding%20as%20Donations%20%28Research%20Policy%29.pdf)
+
+**Promoting Platform Takeoff and Self-Fulfilling Expectations: Field Experimental Evidence**  
+K. Boudreau · *Management Science*, 2021
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2021%20-%20Boudreau%20-%20Promoting%20Platform%20Takeoff%20%28Management%20Science%29.pdf)
+
+**Protecting Digital Assets: The Use of Formal and Informal Appropriability Strategies by App Developers**  
+M. Miric, K. Boudreau, and L.B. Jeppesen · *Research Policy*, 2019
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2019%20-%20Boudreau%20-%20Protecting%20Their%20Digital%20Assets%20%28Research%20Policy%29.pdf)
+
+**"Crowds" of Amateurs and Professional Entrepreneurs in Marketplaces**  
+K. Boudreau · *NBER Working Paper No. 24512*, 2018 · [Working paper]{.badge}
+  
+[NBER](https://www.nber.org/papers/w24512) · [PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2018%20-%20Boudreau%20-%20Crowds%20of%20Amateurs%20and%20Professional%20Entrepreneurs%20%28NBER%29.pdf)
+
+**Platform Boundary Choices and Governance: Entrepreneurship, Innovation, and Growth in Mobile Computing**  
+K. Boudreau · *Advances in Strategic Management: Entrepreneurship, Innovation, and Platforms*, 2017 · [Book chapter]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2017%20-%20Boudreau%20-%20Platform%20Boundary%20Choices%20and%20Governance%20%28Advances%20in%20Strategic%20Management%29.pdf)
+
+**Platform-Based Organization and Boundary Choices: "Opening-Up" While Still Coordinating and Orchestrating**  
+K. Boudreau · *Working Paper / Advances in Strategic Management*, 2017 · [Working paper]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2929725) · [PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2017%20-%20Boudreau%20-%20Platform%20Boundaries%20and%20Scope%20in%20Pre-iPhone%20Smartphones%20%28Advances%20in%20Strategic%20Management%29.pdf)
+
+**Performance Responses to Competition Across Skill Levels in Rank-Order Tournaments**  
+K. Boudreau, K. Lakhani, and M. Menietti · *RAND Journal of Economics*, 2016
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2016%20-%20Boudreau%20-%20Performance%20Responses%20to%20Competition%20across%20Skill%20Levels%20%28RAND%20Journal%20of%20Economics%29.pdf)
+
+**Unpaid Platform Complementors and the Network Effect Mirage**  
+K. Boudreau and L.B. Jeppesen · *Strategic Management Journal*, 2014
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2015%20-%20Boudreau%20-%20Unpaid%20Platform%20Complementors%20%28Strategic%20Management%20Journal%29.pdf)
+
+**Let a Thousand Flowers Bloom? An Early Look at Large Numbers of Software App Developers and Patterns of Innovation**  
+K. Boudreau · *Organization Science*, 2012
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2012%20-%20Boudreau%20-%20Let%20a%20Thousand%20Flowers%20Bloom%20%28Organization%20Science%29.pdf)
+
+**The Confederacy of Heterogeneous Software Organizations and Heterogeneous Developers: Field Experimental Evidence on Sorting and Worker Effort**  
+K. Boudreau and K. Lakhani · *The Rate and Direction of Inventive Activity Revisited (NBER)*, 2011 · [Book chapter]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2011%20-%20Boudreau%20-%20Heterogeneous%20Software%20Organizations%20and%20Developers%20%28NBER%29.pdf)
+
+**Incentives and Problem Uncertainty in Innovation Contests: An Empirical Analysis**  
+K. Boudreau, N. Lacetera, and K. Lakhani · *Management Science*, 2011
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1531368) · [PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2011%20-%20Boudreau%20-%20Incentives%20and%20Problem%20Uncertainty%20in%20Innovation%20Contests%20%28Management%20Science%29.pdf)
+
+**Open Platform Strategies and Innovation: Granting Access vs. Devolving Control**  
+K. Boudreau · *Management Science*, 2010
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2010%20-%20Boudreau%20-%20Open%20Platform%20Strategies%20and%20Innovation%20%28Management%20Science%29.pdf)
+
+**Platform Rules: Multi-Sided Platforms as Regulators**  
+K. Boudreau and A. Hagiu · *Platforms, Markets and Innovation (Edward Elgar)*, 2009 · [Book chapter]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2009%20-%20Boudreau%20-%20Platform%20Rules%20-%20Multi-Sided%20Platforms%20as%20Regulators%20%28Book%20Chapter%29.pdf)
+
+**Opening the Platform vs. Opening the Complementary Good? The Effect on Product Innovation in Handheld Computing**  
+K. Boudreau · *Working Paper*, 2008 · [Working paper]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1251167)
+
+**The Boundaries of the Platform**  
+K. Boudreau · *MIT Sloan Research Paper*, 2008 · [Working paper]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=834984)
+
+
+## Management of Knowledge, Science & Discovery
+
+**Scientific Peer Review: Institutional Workings and Performance**  
+K. Boudreau · *NBER chapter*, forthcoming 2025 · [Book chapter]{.badge}
+
+**Field Experiments in the Science of Science: Lessons from Peer Review and the Evaluation of New Knowledge**  
+K. Boudreau · *NBER chapter*, forthcoming · [Book chapter]{.badge}
+  
+[NBER](https://www.nber.org/books-and-chapters/economics-science/field-experiments-science-science-lessons-peer-review-and-evaluation-new-knowledge)
+
+**Randomized Experiments in the Science of Science**  
+K. Boudreau · *NBER Working Paper / SSRN*, 2026 · [Working paper]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=ssrn-6025114-2.pdf)
+
+**This Time Is Different: A Comparison of Three Waves of AI Adoption in Science**  
+K. Boudreau · *Working Paper* · [Working paper]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=3%20waves%20of%20AI%20in%20the%20Sciences.pdf)
+
+**From Theory to Practice: Field Experimental Evidence on Early Exposure of Engineering Majors to Professional Work**  
+K. Boudreau and M. Marx · *NBER Working Paper No. 26013*, 2019 · [Working paper]{.badge}
+  
+[NBER](https://www.nber.org/papers/w26013) · [PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2019%20-%20Boudreau%20-%20From%20Theory%20to%20Practice%20%28NBER%29.pdf)
+
+**Randomized Insights: Field Experiments in Understanding Knowledge Production in the Sciences**  
+K. Lakhani, K. Boudreau, and E. Guinan · *Science*, 2018
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2018%20-%20Boudreau%20-%20Randomized%20Insights%20on%20Science%20Experiments%20%28Science%29.pdf)
+
+**A Field Experiment on Search Costs and the Formation of Scientific Collaborations**  
+K. Boudreau, T. Brady, I. Ganguli, P. Gaule, E. Guinan, T. Hollenberg, and K. Lakhani · *Review of Economics and Statistics*, 2017
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2017%20-%20Boudreau%20-%20Search%20Costs%20and%20Formation%20of%20Scientific%20Collaborations%20%28Review%20of%20Economics%20and%20Statistics%29.pdf)
+
+**Looking Across and Looking Beyond the Knowledge Frontier: Intellectual Distance, Novelty, and Resource Allocation in Science**  
+K. Boudreau, E. Guinan, K. Lakhani, and C. Riedl · *Management Science*, 2016
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2478627) · [PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2016%20-%20Boudreau%20-%20Looking%20Across%20and%20Beyond%20the%20Knowledge%20Frontier%20%28Management%20Science%29.pdf)
+
+**Innovation Experiments: Researching Technical Advance, Knowledge Production, and the Design of Supporting Institutions**  
+K. Boudreau and K. Lakhani · *Innovation Policy and the Economy, Vol. 16 (NBER)*, 2015 · [Book chapter]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2015%20-%20Boudreau%20-%20Innovation%20Experiments%20with%20NASA%20and%20HMS%20%28NBER%29.pdf)
+
+**'Open' Disclosure of Innovations, Incentives, and Follow-on Reuse: Theory and a Field Experiment in Computational Biology**  
+K. Boudreau and K. Lakhani · *Research Policy*, 2014
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2014%20-%20Boudreau%20Lakhani%20-%20Open%20Disclosure%20of%20Innovations%20Incentives%20and%20Follow-on%20Reuse%20%28Research%20Policy%29.pdf)
+
+**Prize-Based Contests Can Provide Solutions to Computational Biology Problems**  
+K. Boudreau, K. Lakhani, P.-R. Loh, L. Backstrom, C. Baldwin, E. Lonstein, M. Lydon, A. MacCormack, R. Arnaout, and E. Guinan · *Nature Biotechnology*, 2013
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2013%20-%20Boudreau%20-%20Prize-Based%20Contests%20Can%20Provide%20Solutions%20in%20Genomics%20%28Nature%20Biotechnology%29.pdf)
+
+
+## Translation to Practice
+
+**A Short Guide to Strategy for Entrepreneurs**  
+K. Boudreau · *Harvard Business Review*, 2017
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2017%20-%20Boudreau%20-%20A%20Short%20Guide%20to%20Strategy%20for%20Entrepreneurs%20%28Harvard%20Business%20Review%29.pdf)
+
+**Designing Your Company: Creating, Delivering, and Capturing Value**  
+K. Boudreau · *Harvard Business School Strategy Unit Working Paper No. 16-131*, 2016 · [Working paper]{.badge}
+  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2784718) · [PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2016%20-%20Boudreau%20-%20Notes%20on%20Developing%20a%20Strategy%20and%20Designing%20a%20Company%20%28HBS%20Working%20Paper%29.pdf)
+
+**Using the Crowd as an Innovation Partner**  
+K. Boudreau and K. Lakhani · *Harvard Business Review*, 2013
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2013%20-%20Boudreau%20-%20Using%20the%20Crowd%20as%20an%20Innovation%20Partner%20%28Harvard%20Business%20Review%29.pdf)
+
+**Experiments in Open Innovation at the Harvard Medical School**  
+E. Guinan, K. Boudreau, and K. Lakhani · *MIT Sloan Management Review*, 2013
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2013%20-%20Boudreau%20-%20Experiments%20in%20Open%20Innovation%20at%20Harvard%20Medical%20School%20%28MIT%20Sloan%20Management%20Review%29.pdf)
+
+**How to Manage Outside Innovation: Competitive Markets or Collaborative Communities?**  
+K. Boudreau and K. Lakhani · *MIT Sloan Management Review*, 2009
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=2009%20-%20Boudreau%20-%20How%20to%20Manage%20Outside%20Innovation%20%28MIT%20Sloan%20Management%20Review%29.pdf)
+
+
+## Case Studies
+
+**Digital Twins Platform**  
+K. Boudreau · *Teaching Case Study*, 2025 · [Case]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=Case%20Studies/Boudreau%20-%20Case%20Study%20-%20Digital%20Twins%20Platform.pdf)
+
+**NuGig AI Platform**  
+K. Boudreau · *Teaching Case Study* · [Case]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=Case%20Studies/Boudreau%20-%20Case%20Study%20-%20NuGig%20AI%20Platform.pdf)
+
+**The Economist Corporate Network Platform**  
+K. Boudreau · *Teaching Case Study* · [Case]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=Case%20Studies/Boudreau%20-%20Case%20Study%20-%20Economist%20Corporate%20Network%20Platform.pdf)
+
+**Fubles: The Birth of a Social Sport Sharing Platform**  
+K. Boudreau and A. Blasco · *Teaching Case Study*, 2015 · [Case]{.badge}
+  
+[PDF](https://www.dropbox.com/scl/fo/fpw2wd9heqc6jonzlqecg/AKunffRboAHlnamGQrJ3mmM?rlkey=kf411axif5npdet23cdb8ccbc&dl=0&preview=Case%20Studies/Boudreau%20-%20Case%20Study%20-%20Fubles%20Social%20Sport%20Platform.pdf)
+
+**Space Industry: EADS Astrium**  
+K. Boudreau and S. Francioli · *Teaching Case Study*, 2010 · [Case]{.badge}
+
+**Debate on Licensing the Palm OS Platform**  
+K. Boudreau, R. Casadesus-Masanell, and J. Mitchell · *Teaching Case Study*, 2008 · [Case]{.badge}
+
