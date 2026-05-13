@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kevin Boudreau"
+  description: "Professor, D'Amore-McKim School of Business, Northeastern University."
+  site-url: "https://kevinboudreau.com"
+  repo-url: "https://github.com/IoTOpenInnovationLab/website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: talks.qmd
+        text: Writing & Talks
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    toc: false
